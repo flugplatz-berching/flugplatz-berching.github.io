@@ -5,3 +5,6 @@
 layout: home
 ---
 Herzlich willkommen beim Flugplatz Berching.
+
+<img src="../assets/Luftbild1.jpg" alt="Luftbild" width="500" height="600">
+

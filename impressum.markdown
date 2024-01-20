@@ -7,7 +7,7 @@ permalink: /impressum/
 
 Anbieter dieser Internetseite ist:
 
-Verein der Musterleute e. V.
+Luftsportverein Berching i.G. (in Gründung)
 
 Vertretungsberechtigter Vorstand: Maximiliane Musterfrau
 
@@ -19,8 +19,8 @@ Telefon: (0123) 456789
 
 Fax: (0123) 987654
 
-E-Mail: Muster@muster-impressum.de
+E-Mail: info@flugplatz-berching.de
 
-Eingetragen in das Vereinsregister beim Amtsgericht Musterstadt unter VR 12345
+Eingetragen in das Vereinsregister beim Amtsgericht Eichstädt unter VR xxxxx
 
 Quelle: http://www.muster-impressum.de
