@@ -4,7 +4,9 @@
 
 layout: home
 ---
-Herzlich willkommen beim Flugplatz Berching.
+Willkommen auf der Homepage des Flugplatz Berching.
 
 <img src="../assets/Luftbild1.jpg" alt="Luftbild" width="500" height="600">
 
+Der Flugplatz ist PPR.
+Es gilt fliegen ohne Flugleiter, dass bedeutet 'No RFF' (kein Rescue and Firefighting) weitere Infos unter den Anflug Infos.
