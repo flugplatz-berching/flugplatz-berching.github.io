@@ -4,6 +4,8 @@ title: Anflug
 permalink: /anflug/
 ---
 
+Für den Anflug auf den Flugplatz Berching gilt striktes PPR. Übungsanflüge, welche die Sicherheitsmindeshöhe unterschreiten sind explizit nicht gestattet.
+
 Hier soll Anfluginformation hin und ein Link zur AIP
 
 
