@@ -6,9 +6,7 @@ permalink: /anflug/
 
 Für den Anflug auf den Flugplatz Berching gilt striktes PPR. Übungsanflüge, welche die Sicherheitsmindeshöhe unterschreiten sind explizit nicht gestattet.
 
-Hier soll Anfluginformation hin und ein Link zur AIP
-
-
+Die offiziellen Anflüginformationen der AIP VFR finden sie hier:
 
 <a href="https://aip.dfs.de/BasicVFR/pages/P001AF.html" target="_blank">EDNI Berching 1</a>
 
