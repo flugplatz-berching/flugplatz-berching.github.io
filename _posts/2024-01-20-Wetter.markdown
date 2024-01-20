@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Wetter"
-date:   2024-01-20 12:19:17 +0100
-categories: jekyll update
----
-Hier finden sie aktuelle Wetterinformationen.

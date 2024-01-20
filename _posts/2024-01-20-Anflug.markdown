@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Anflug Info"
-date:   2024-01-20 12:19:17 +0100
-categories: jekyll update
----
-Hier werden die Anfluginfos für Berching mit einem Link zur AIP liegen.
