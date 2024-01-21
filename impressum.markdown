@@ -21,6 +21,6 @@ Fax: (0123) 987654
 
 E-Mail: info@flugplatz-berching.de
 
-Eingetragen in das Vereinsregister beim Amtsgericht Eichstädt unter VR xxxxx
+Eingetragen in das Vereinsregister beim Amtsgericht Eichstätt unter VR xxxxx
 
 Quelle: http://www.muster-impressum.de
