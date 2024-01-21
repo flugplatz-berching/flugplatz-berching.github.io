@@ -13,8 +13,8 @@ Rhein-Main-Donau Kanal und der Sulz gegenüber des Orts Rapperdorf.
 Als Orientierungshilfen sind der Rhein-Main-Donau Kanal das 
 Industriegelände Stefan un der kleine See im nördlichen Bereich der Piste 
 zu nennen.
-Direkt im Osten des Flugplatzes befindet sich zudem der Grill- und 
-Zeltplatz Berching.
+Direkt im Osten des Flugplatzes befindet sich zudem der 
+<a href="https://www.berching.de/zeltplatz/" target="_blank">Grill- und Zeltplatz Berching</a>.
 Nach umfangreichen Maßnahmen, inbesondere der Wiederinstandsetzung der 
 Drainage der Startbahn soll der Flugbetrieb wieder aufgenommen werden.
 
