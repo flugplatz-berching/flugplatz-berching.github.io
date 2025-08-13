@@ -17,8 +17,6 @@ Musterstraße 1
 
 Telefon: (0123) 456789
 
-Fax: (0123) 987654
-
 E-Mail: info@flugplatz-berching.de
 
 Eingetragen in das Vereinsregister beim Amtsgericht Eichstätt unter VR xxxxx
