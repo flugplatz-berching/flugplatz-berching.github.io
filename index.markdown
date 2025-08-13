@@ -11,7 +11,7 @@ Willkommen auf der Homepage des Flugplatz Berching.
 Der Flugplatz liegt ca. 2km nordwestlich von Berching zwischen dem 
 Rhein-Main-Donau Kanal und der Sulz gegenüber des Orts Rapperdorf.
 Als Orientierungshilfen sind der Rhein-Main-Donau Kanal, das 
-Industriegelände Stefan und der kleine See im nördlichen Bereich der Piste 
+Industriegelände Stephan und der kleine See im nördlichen Bereich der Piste 
 zu nennen.
 Direkt im Osten des Flugplatzes befindet sich zudem der 
 <a href="https://www.berching.de/zeltplatz/" target="_blank">Grill- und Zeltplatz Berching</a>.
