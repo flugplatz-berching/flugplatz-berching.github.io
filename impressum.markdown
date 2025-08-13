@@ -9,15 +9,14 @@ Anbieter dieser Internetseite ist:
 
 Luftsportverein Berching e.V.
 
-Vertretungsberechtigter Vorstand: Maximiliane Musterfrau
+Vertretungsberechtigter Vorstand: C. Blattner
 
-Musterstraße 1
+Am Flugplatz
+82334 Berching / Breitenfurt
 
-00000 Musterstadt
+Telefon: 01556/3730001
 
-Telefon: (0123) 456789
-
-E-Mail: info@flugplatz-berching.de
+E-Mail: EDNI@online.de
 
 Eingetragen in das Vereinsregister beim Amtsgericht Eichstätt unter VR xxxxx
 
