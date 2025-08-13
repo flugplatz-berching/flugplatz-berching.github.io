@@ -19,4 +19,3 @@ Nach umfangreichen Maßnahmen, inbesondere der Wiederinstandsetzung der
 Drainage der Startbahn soll der Flugbetrieb wieder aufgenommen werden.
 
 Der Flugplatz ist PPR.
-Es gilt fliegen ohne Flugleiter, dass bedeutet 'No RFF' (kein Rescue and Firefighting) weitere Infos unter den Anflug Infos.
