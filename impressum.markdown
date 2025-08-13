@@ -12,6 +12,7 @@ Luftsportverein Berching e.V.
 Vertretungsberechtigter Vorstand: C. Blattner
 
 Am Flugplatz
+
 82334 Berching / Breitenfurt
 
 Telefon: 01556/3730001
