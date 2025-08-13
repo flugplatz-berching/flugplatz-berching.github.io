@@ -19,6 +19,6 @@ Telefon: 01556/3730001
 
 E-Mail: EDNI@online.de
 
-Eingetragen in das Vereinsregister beim Amtsgericht Eichstätt unter VR xxxxx
+Eingetragen in das Vereinsregister beim Amtsgericht Eichstätt unter VR 203045
 
 Quelle: http://www.muster-impressum.de
