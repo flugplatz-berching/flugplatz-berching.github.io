@@ -7,7 +7,7 @@ permalink: /impressum/
 
 Anbieter dieser Internetseite ist:
 
-Luftsportverein Berching i.G. (in Gründung)
+Luftsportverein Berching e.V.
 
 Vertretungsberechtigter Vorstand: Maximiliane Musterfrau
 
